@@ -11,5 +11,6 @@ En este curso se ven diferentes tems como:
 - ¿Cómo se crea una rama o una confirmación de cambios?
 - ¿Cómo se usa GitHub Pages?
 - ¿Como utilizar stash?
+- incluye ejemplos en linux, win y mac.
 
 Y como amable recordatorio ^^Este README.md es un chiste ^^. Diseñado como ejemplo. En realidad solo toma 20hrs.
