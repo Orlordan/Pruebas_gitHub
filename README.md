@@ -10,11 +10,5 @@ En este curso se ven diferentes tems como:
 - ¿Qué son las propuestas (o issues) y solicitudes de extracción (o pull requests)?
 - ¿Cómo se crea una rama o una confirmación de cambios?
 - ¿Cómo se usa GitHub Pages?
-- ¿Como utilizar stash?
-<<<<<<< HEAD
-=======
-- incluye ejemplos en linux, win y mac.
-- disponible para todas las edades
->>>>>>> readme-mejoradisimo
 
 Y como amable recordatorio ^^Este README.md es un chiste ^^. Diseñado como ejemplo. En realidad solo toma 20hrs.
