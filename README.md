@@ -12,5 +12,6 @@ En este curso se ven diferentes tems como:
 - ¿Cómo se usa GitHub Pages?
 - ¿Como utilizar stash?
 - incluye ejemplos en linux, win y mac.
+- disponible para todas las edades
 
 Y como amable recordatorio ^^Este README.md es un chiste ^^. Diseñado como ejemplo. En realidad solo toma 20hrs.
